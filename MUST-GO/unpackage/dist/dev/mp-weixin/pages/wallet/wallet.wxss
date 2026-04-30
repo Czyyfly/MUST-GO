@@ -1,0 +1,11 @@
+
+.wallet-page.data-v-4c380209 { padding: 30rpx;
+}
+.upload-box.data-v-4c380209 { 
+  background: #fdfdfd; border: 2rpx dashed #ddd; height: 450rpx;
+  display: flex; justify-content: center; align-items: center; border-radius: 20rpx;
+}
+.preview-img.data-v-4c380209 { width: 100%; height: 100%; border-radius: 20rpx;
+}
+.placeholder.data-v-4c380209 { text-align: center; color: #999;
+}
